@@ -1,0 +1,43 @@
+.project-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.placeholder-bold {
+    font-weight: bold;
+    font-size: 1.25rem
+}
+
+.almost-center-text {
+    padding-left: 28%;
+}
+
+.subtitle-center {
+    text-align: center;
+    font-size: 1.5rem;
+    color: blue;
+}
+.addParticipation-button {
+    background-color: #1ec7cd;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-size: 1.25rem;
+    border: none;
+}
+.recommend-button {
+    background-color: #1ec7cd;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1.25rem;
+    border: none;
+}
+
+.list-group-item.no-padding {
+    padding: 0 !important;
+}
+.list-group.no-padding {
+    padding: 0 !important;
+}
