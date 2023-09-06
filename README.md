@@ -2,8 +2,8 @@
 ## General Info
 ```
 There are two different projects that compose 2023-PCV volunteer management tool and each one has its README. 
-- Backend: 
-
+- Backend: Its services are exposed and made with Spring framework and has connection to PostgreSQL database.
+- Frontend: Web client made with ReactJS
 ```
 ## Run
 
